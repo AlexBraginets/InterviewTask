@@ -5,8 +5,8 @@ namespace Data.Maps
     [System.Serializable]
     public class ItemSpritePair
     {
-        public string Name;
-        public int ID;
+        [SerializeField] private ItemID itemID;
         public Sprite Sprite;
+        public int ID => itemID.ID;
     }
 }

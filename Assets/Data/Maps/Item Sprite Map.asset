@@ -13,15 +13,11 @@ MonoBehaviour:
   m_Name: Item Sprite Map
   m_EditorClassIdentifier: 
   data:
-  - Name: 
-    ID: 0
-    Sprite: {fileID: 0}
-  - Name: 
-    ID: 1
-    Sprite: {fileID: 0}
-  - Name: 
-    ID: 2
-    Sprite: {fileID: 0}
-  - Name: 
-    ID: 3
-    Sprite: {fileID: 0}
+  - itemID: {fileID: 11400000, guid: cf9f706ad4571764f83205f0c6f2c5b8, type: 2}
+    Sprite: {fileID: 8534946692553997975, guid: 0ffc980e7a4dcc447ab1703093a90451, type: 3}
+  - itemID: {fileID: 11400000, guid: ffd4388d56b92f641b33dfb637e3234d, type: 2}
+    Sprite: {fileID: 2588829072479384257, guid: de4a940dfb15ae942b27141527fe9ef2, type: 3}
+  - itemID: {fileID: 11400000, guid: 3ca378ddd9ad00046b4aa299fad1b9d6, type: 2}
+    Sprite: {fileID: 2603238811775612124, guid: 0ffc980e7a4dcc447ab1703093a90451, type: 3}
+  - itemID: {fileID: 11400000, guid: 10fed41d73900504ab9b22ab41c01dce, type: 2}
+    Sprite: {fileID: 2588829072479384257, guid: de4a940dfb15ae942b27141527fe9ef2, type: 3}
