@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 153e0ae616656ff4ca6c5b8cc7f8a630, type: 3}
+  m_Name: Item Price Map
+  m_EditorClassIdentifier: 
+  data:
+  - itemID: {fileID: 11400000, guid: cf9f706ad4571764f83205f0c6f2c5b8, type: 2}
+    Price: 1
+  - itemID: {fileID: 11400000, guid: 3ca378ddd9ad00046b4aa299fad1b9d6, type: 2}
+    Price: 2
+  - itemID: {fileID: 11400000, guid: ffd4388d56b92f641b33dfb637e3234d, type: 2}
+    Price: 3
+  - itemID: {fileID: 11400000, guid: 10fed41d73900504ab9b22ab41c01dce, type: 2}
+    Price: 10
