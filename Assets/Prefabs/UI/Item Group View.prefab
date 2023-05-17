@@ -92,8 +92,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f910092e73a42749aa997d33243cd11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  amountLabel: {fileID: 0}
-  priceLabel: {fileID: 0}
+  amountLabel: {fileID: 3896570286369728996}
+  priceLabel: {fileID: 3896570286286555301}
   iconView: {fileID: 3896570286725957503}
 --- !u!1 &3896570286286555307
 GameObject:
